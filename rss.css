@@ -1,0 +1,32 @@
+.left{
+    position: relative;
+    width: 20%;
+    overflow: scroll;
+    float: left;
+    height: 100%
+}
+
+button{
+    height: 60px;
+    width:100%;
+}
+
+.right{
+    position: relative;
+    width: 80%;
+    float: right;
+
+}
+
+button:hover{
+    background-color: green;
+    color: white;
+}
+
+li{
+    list-style-type: none;
+}
+
+b{
+    color: red;
+}
